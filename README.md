@@ -17,7 +17,7 @@ Classifying six activities:
 
 6-	LAYING
 
-
+There are three main signal types in the raw data: total acceleration (gravitational), body acceleration, and body gyroscope (angular velocity). Each has 3 axises of data. This means that there are a total of nine variables for each time step.
 
 # Accuracy
 
