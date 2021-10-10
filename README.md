@@ -43,3 +43,18 @@ An identifier of the subject who carried out the experiment.
 # Performance per Epoch (CSVLogger callback)
 
 [model_1.csv](https://github.com/Ahmed-Fayed/Activity-Recognition/files/7307553/model_1.csv)
+
+
+
+# Confusion Matrix
+
+![Confusion Matrix](https://user-images.githubusercontent.com/31994329/136698718-37473e83-8d70-49d2-9ccd-bdb860cf75d7.png)
+
+
+# Receiver Operating Characteristic (ROC)
+
+![ROC](https://user-images.githubusercontent.com/31994329/136698763-f75fc075-2831-4799-81aa-e6f4ab04200b.png)
+
+
+
+
